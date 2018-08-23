@@ -1,4 +1,4 @@
-module.exports.valueToAPIFormat = function findURLsInText(number) {
+module.exports.valueToAPIFormat = function valueToAPIFormat(number) {
 
   if (!number) {
     return '0';
